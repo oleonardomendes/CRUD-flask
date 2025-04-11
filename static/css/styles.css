@@ -1,0 +1,33 @@
+/* Adiciona um fundo azul ao body */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+/* Estiliza o container */
+.container {
+    margin-top: 50px;
+}
+
+/* Estiliza os botões */
+.btn {
+    margin: 5px;
+}
+
+/* Estiliza a lista de tarefas */
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Estiliza alertas */
+.alert-warning {
+    margin-top: 20px;
+}
+
+/* Estiliza paginação */
+.pagination {
+    margin-top: 20px;
+    justify-content: center;
+}
